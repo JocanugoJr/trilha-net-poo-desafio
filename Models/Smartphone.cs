@@ -12,7 +12,6 @@ namespace DesafioPOO.Models
         public Smartphone(string numero, string modelo, string imei, int memoria)//construtor que deve ser herdado.
         {
             Numero = numero;
-            // TODO: Passar os parâmetros do construtor para as propriedades ????
             Modelo = modelo;
             Imei = imei;
             Memoria = memoria;
